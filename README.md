@@ -25,6 +25,11 @@ O diretório `fuja` contém os códigos do game, as imagens e sons do jogo, dist
 - **sounds/**: Contém as músicas e efeitos sonoros livres compartilhados na net.
 - **icon.png** e **icon.ico**: Ícones do jogo.
 
+OBS:
+Foram utilizadas para o desenvovlimento do game a linguagem de programação Python 3.10.12,
+as bibliotecas Pygame Zero, Random e Math. Certifique-se de instalar a biblioteca Pygame Zero
+caso você você queira testar os códigos desenvovlvidos,
+
 ### Diretório `windows`
 
 O diretório `windows` contém o instalador para instalar o jogo no Windows. Siga os passos abaixo para fazer o download e instalar no Windows:
